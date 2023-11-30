@@ -94,7 +94,7 @@ IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
 ## Tour
 
 ### Description
-tour.description = Faça um Tour Virtual e Conheça Nosso Espaço
+tour.description = Faça um Tour Virtual e Conheça Nossa Madeireira
 
 ### Title
 tour.name = Madeireira Cambirela
